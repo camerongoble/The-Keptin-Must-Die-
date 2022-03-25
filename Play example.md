@@ -1,6 +1,10 @@
 # The Keptin Must Die!
 # Play Example
 
+Note: The results of each plot's Solitaire game are included for completeness, but in your log book, feel free to leave them out.
+
+Also: Doodling scenarios, mapping the ship, and weapon sketches/blueprints are fun to include as well!  Whatever your creativity makes happen.
+
 ## Ensign's Personal log
 
 _Pulled a Spade for my motive._
@@ -17,7 +21,7 @@ I have used all my personal funds to travel to Fleet Command, enlist, and bribe 
 | Keptin | 10 clubs, 10 diamonds, 10 hearts, Jack spades | 40    |
 | Me:    | 9 clubs                                       | 9     |
 
-I know how to get hold of an experimental virus, but could not figure out a way to expose the Keptin to it.  Not worth even trying.  What would I do, just fling it at him, hold my breath, and run?  Need a better plan.
+I heard there is an experimental virus on board, but could not figure out a way to expose the Keptin to it.  Not worth even trying.  What would I do, just fling it at him, hold my breath, and run?  Need a better plan.
 
 ### Plan B:
 |        | Hand                                         | value |
@@ -27,13 +31,13 @@ I know how to get hold of an experimental virus, but could not figure out a way 
 
 This is more like it!  I can promise the Keptin's consort I could liberate her sister from the mining prison on Kodos VI.  In return, she can arrange for the Keptin to be alone on the Observation Deck.  Then I will simply beat him to death with an Polluxian Battle Cudgel!  I can't wait to see the look on his face.
 
-* Rolls the die, needs greater than 5, gets a 10*
+_Rolls the die, needs greater than 5, gets a 10_
 
 The Keptin's unfortunate pulp was found in a ventilation shaft by the afternoon shift.  The Executive Officer is now Keptin, with a corresponding promotion in rank for everyone.
 
 ## Lieutenant's Personal Log
 
-*Pulled Jack of Clubs as new Benefactor*
+_Pulled Jack of Clubs as new Benefactor_
 
 Lord Pike has approached me with an intriguing offer: he will see that certain career opportunities come my way if I eliminate the Keptin.  Apparently he still holds some resentment at the Keptin's treatment of his nephew when he was a fast-track junior officer.
 
@@ -78,7 +82,7 @@ Total victory!  I swept the field of all the Keptin's guards, resources, money..
 
 ## Lt. Commander's Personal Log
 
-* Pulled 8 of hearts as new Benefactor *
+_Pulled 8 of hearts as new Benefactor_
 
 Flush with recent events, the new Navigation Officer has ideas about how to "improve efficiency among the bridge crew".  I just bet she does.
 
@@ -89,7 +93,7 @@ Flush with recent events, the new Navigation Officer has ideas about how to "imp
 | Keptin | 10 clubs, 3 diamonds, 10 hearts, 10 spades | 33    |
 | Me:    | 8 clubs, 8 diamonds, 8 hearts, 4 spades    | 28    |
 
-* Needed greater than 5, rolled a 7 *
+_Needed greater than 5, rolled a 7_
 
 It turns out the Navigation Officer is a quick draw with her standard issue.  The ventilation duct in the Observation Desk is getting a little cluttered.  And kind of icky.  Plus the Executive Officer now has a profitable new client for his business dealings in House Pike.
 
@@ -97,7 +101,7 @@ Did I say "Executive Officer"?  I meant "Keptin".  Turns out there's an opening.
 
 ## Commander's Personal Log
 
-* Draws King of Clubs as new Benefactor *
+_Draws King of Clubs as new Benefactor_
 
 A little bird wearing a Big Hat says that the Emperor approves of my recent career trajectory.  With a little more work, I could be in line for my own command.  Perhaps even a place at court?
 
@@ -185,7 +189,7 @@ My delightful consort has hinted at an especially intimate night tonight.  It's 
 | Keptin  | 10 clubs, 4 diamonds, 11 hearts, 10 spades | 35    |
 | Ensign: | 1 clubs, 11 diamonds, 10 hearts, 5 spades  | 27    |
 
-* Ensign needs to roll better than an 8, rolls an 11 *
+_Ensign needs to roll better than an 8, rolls an 11_
 
  ## Chief Medical Officer's Log
  Regret to inform Imperial Fleet Command that the Keptin's body was found dead in a ventilation shaft attached to the Recreation Facility.  Cause of death appears to be severe trauma to the torso and head brought about by repeated battery, patterns consistent with bare knuckles and severe kicking.  Investigation to be conducted by Executive Officer upon her assuming the duties of Acting Keptin.
