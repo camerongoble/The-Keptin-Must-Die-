@@ -31,7 +31,7 @@ This will be your Benefactor, the person who inspired you to mutiny and kill The
 |     4      | Your best friend from the Imperial Academy         |
 |     5      | A zealot who seems to know the future              |
 |     6      | An influencial "businessman" in the sector         |
-|     7      | A rival Captain from their old days at the Academy |
+|     7      | A rival Keptin from their old days at the Academy |
 |     8      | The military governor of a planet                  |
 |     9      | An attache to an Imperial Senator                  |
 |     10     | A family member attached to a major house          |
@@ -122,7 +122,7 @@ Here is a field at the end of play.  Columns are identified A-G for reference. A
 | 10 ♦ |     | 3 ♦ |     | 10 ♠ |     |  ?  |
 | 9 ♠  |     |     |     | 9 ♦  |     |  ?  |
 | 8 ♥  |     |     |     | 8 ♠  |     |  ?  |
-|      |     |     |     | 7 ♦  |     | 6 ♥ |
+| 7 ♥  |     |     |     | 7 ♦  |     | 6 ♥ |
 |      |     |     |     | 6 ♣  |     | 5 ♣ |
 |      |     |     |     | 5 ♦  |     | 4 ♥ |
 |      |     |     |     |      |     | 3 ♠ |
@@ -138,7 +138,7 @@ Columns A, B, E, and G all have chains.  The single non-King cards in C and D do
 
 The Keptin's chains are A and B, because they start with a King (even though B only has one card, that card is a K, so it counts).
 
-Find the card with the lowest value in each of the Keptin's chains.  In column A this is 8 and in column B this is K.  The card values belong to the King of that suit, thus the 8 in A is considered to be 8♠ because the K is ♠.  A K by itself is always its own suit.
+Find the card with the lowest value in each of the Keptin's chains.  In column A this is 8 and in column B this is K.  The card values belong to the King of that suit, thus the 7 ♥ in A is considered to be 7 ♠ instead because the K is ♠.  A K by itself is always its own suit.
 
 It is very important to keep this in mind:
 
@@ -148,7 +148,7 @@ Track the cards in The Keptin's chains by suit, thus:
 
 |         | Clubs | Diamonds | Hearts | Spades |
 | ------- | ----- | -------- | ------ | ------ |
-| Keptin: |       |          | K      | 8      |
+| Keptin: |       |          | K      | 7      |
 
 * Keptins get an automatic 10 in any suit that is not represented in the Keptin's hand.
 * Keptins must keep the lower value if it is already in their hand.
@@ -157,7 +157,7 @@ Thus the 8 doesn't change, but two new 10s are added:
 
 |         | Clubs | Diamonds | Hearts | Spades |
 | ------- | ----- | -------- | ------ | ------ |
-| Keptin: | 10    | 10       | Q      | 8      |
+| Keptin: | 10    | 10       | K      | 7      |
 
 This is the Keptin's hand.
 
@@ -181,11 +181,11 @@ Next, consider the foundation piles.  If foundation piles have cards of any suit
 
 Don't forget the Benefactor card!  (You *did* remember to pull one upon receiving your commission, didn't you?)
 
-In this example case: Let's say this Mutineer pulled 9♦.
+In this example case: Let's say this Mutineer pulled J♦.
 
 |           | Clubs | Diamonds | Hearts | Spades | Benefactor    |
 | --------- |:-----:|:--------:|:------:|:------:| ------------- |
-| Mutineer: |   A   |    4     |   6    |   10   | 9 of diamonds |
+| Mutineer: |   A   |    4     |   6    |   10   | J of diamonds |
 
 Note that the Benefactor goes into their own column and keeps the suit of the card.  This helps when fleshing out the details of the plot, as below.
 
@@ -198,9 +198,9 @@ The example hand involves:
 * 4♦: A promise not to whisper in the wrong ear.
 * 6♥: A crewmate who was passed up for promotion.
 * 10♠: The Keptin’s secure quarters.
-* 9♦: An attachee to an Imperial Senator on a business deal that went sour
+* J♦: A Lord or Lady of a major house regarding a business deal that went sour
 
-How could all these elements be brought together to kill The Keptin?  Perhaps you could blackmail that crewmate with details that would otherwise show up on their next performance review: details the Senator happens to know on your behalf.  Maybe the crewmate can distract the Keptin's guard at a critical moment, allowing you to sneak into The Keptin's quarters?  Then you just pummel away?  Not the craziest plan ever...
+How could all these elements be brought together to kill The Keptin?  Perhaps you could blackmail that crewmate with details that would otherwise show up on their next performance review: details the house noble will share with you.  Maybe the crewmate can distract the Keptin's guard at a critical moment, allowing you to sneak into The Keptin's quarters?  Then you just pummel away?  Not the craziest plan ever...
 
 Be as brief or verbose as it takes.  Draw schematics.  Cross out bits that don't work or need improving, within the constraints of the cards in your hand.  Doodle.  Map the ship's deck to plan your ambush.  Indulge yourself.
 
@@ -214,36 +214,46 @@ And that means rolling the dice.  Risky, to say the least.  If The Keptin surviv
 
 Let's find out.
 
-First, convert any face cards to their value as indicated in the Benefactor chart above.  Basically, J and Q are worth 10, K is worth 11, Aces are worth 1.
+* Benefactor cards can replace lower value cards of the same suit.
+* Benefactor cards add 1 to equal or higher valued cards of the same suit.
+
+The 4♦ is less than the Benefactor's J♦, so replacing is allowed.
+
+|           | Clubs | Diamonds | Hearts | Spades | Benefactor        |
+| ---------:| ----- | -------- | ------ | ------ | ----------------- |
+|   Keptin: | 10    | 10       | 11     | 7      | (none)            |
+| Mutineer: | 1     | J        | 6      | 10     | (replaced the 4♦) |
+
+Convert any face cards to their value as indicated in the Benefactor chart above.  Basically, J and Q are worth 10, K is worth 11, Aces are worth 1.
 
 From our examples above, we get:
 
-|           | Clubs | Diamonds | Hearts | Spades | Benefactor    |
-| ---------:| ----- | -------- | ------ | ------ | ------------- |
-|   Keptin: | 10    | 10       | 11     | 8      | (none)        |
-| Mutineer: | 1     | 4        | 6      | 10     | 9 of diamonds |
+|           | Clubs | Diamonds | Hearts | Spades | Benefactor |
+| ---------:| ----- | -------- | ------ | ------ | ---------- |
+|   Keptin: | 10    | 10       | 11     | 7      | (none)     |
+| Mutineer: | 1     | 10       | 6      | 10     |            |
 
-Now total them up, including the Benefactor card.
+Now total them up.
 
-|           | Total |
-| ---------:|:-----:|
-|   Keptin: |  10 + 10 + 11 + 8 = 39   |
-| Mutineer: |  1 + 4 + 6+ 10 + 9 = 30   |
+|           |         Total         |
+| ---------:|:---------------------:|
+|   Keptin: | 10 + 10 + 11 + 7 = 38 |
+| Mutineer: |  1 + 10 + 6+ 10 = 27  |
 
-One more thing to consider: Luck.  Either The Keptin or the Mutineer gets to roll 2d6 and add to their total, depending on whose total is lowest.  Usually this is the Mutineer.  But if the pre-roll totals are tied, apply the roll to The Keptin's total.
+One more thing to consider: Luck.  Roll a 2d6 and add the result to the lowest total so far.  Usually this is the Mutineer.  But if the pre-roll totals are tied, apply the roll to The Keptin's total.
 
 Whoever has the highest total after the roll will win.  And if the result after the roll is a tie, The Keptin wins.
 
 * If you roll the dice, you are committed to the outcome.
 * When you roll, add the result to whoever's total is lowest.
 * Keep in mind: The Keptin always wins ties, pre- or post-roll.
-* If you don't go through with it, re-shuffle the deck and start a new plot.
+* If you don't go through with it, you live to fight another day.  Re-shuffle the deck and start a new plot.
 
 So make the choice: take the risk, or go back to the drawing board?
 
 ### Example
 
-The Mutineer above has 30 vs. The Keptin's 39.  That means the Mutineer would have to roll _greater than_ a 9 on the dice to win.  After all, less than 9 would make an obvious failure.  9 exactly would set the totals to 39 vs. 39, and The Keptin always wins ties.  Only 10, 11, or 12 on the dice would give the Mutineer greater than The Keptin's 39.
+The Mutineer above has 27 vs. The Keptin's 38.  That means the Mutineer would have to roll _greater than_ a 11 on the dice to win.  After all, less than 11 would make an obvious failure.  11 exactly would set the totals to 38 vs. 38, and The Keptin always wins ties.  Only a 12 on the dice would give the Mutineer greater than The Keptin's 39.
 
 The Mutineer would probably do well _not_ to roll, head back into the shadows, and try another plan.
 
@@ -269,15 +279,16 @@ The process is simple.  Draw as many cards as are Visible according to your new 
 
 * Once a potential Benefactor is discarded from Visibility, they are gone.
 * You may only choose one Benefactor per rank.
+* Sweeping the Field temporarily grants you +1 to Visibility.
 
-| Rank              | Visible | Total Draws |
-| ----------------- | ------- | ----------- |
-| Ensign            | 1 card  | 1           |
-| Lieutenant        | 1       | 2           |
-| Lt. Commander     | 2       | 2           |
-| Commander         | 2       | 3           |
-| Executive Officer | 3       | 3           |
-| Keptin            | *       | *           |
+| Rank              | Visibility | Total Draws |
+| ----------------- | ---------- | ----------- |
+| Ensign            | 1 card     | 1           |
+| Lieutenant        | 1          | 2           |
+| Lt. Commander     | 2          | 2           |
+| Commander         | 2          | 3           |
+| Executive Officer | 3          | 3           |
+| Keptin            | *          | *           |
 
 The Keptin has special rules for Benefactors and promotion.  See The Keptin's section below.
 
@@ -292,16 +303,19 @@ A newly-minted Lieutenant can pick from 2 potential Benefactors, but can only ha
 Our Lieutenant is won again and is now Lt. Commander.  She can now have two potential Benefactors visible at a time, though she is still limited to two total draws.  She pulls twice and puts them side-by-side: 4♥ and 9♠.  The choice is obvious.
 
 ## So Now You're The Keptin
+
 Special rules apply to being The Keptin.  That's why you want to be The Keptin, of course!
+
 * Every conspiracy against you must be dealt with.  The opposing Mutineer does not choose whether to go against you or not; they commit no matter the risk.  Every Solitaire game represents a mutiny you must meet head on.  But you can assume that you know the details of each one as they come out.
 * The Keptin's rules in the Solitaire game apply to you now instead of the Mutineer's.  (See rules above: The Keptin's Defense.)  Hey, it's good to be The Keptin!
 * When a mutiny begins, the opposing Ensign draws a Benefactor card as usual, and its value applies to their final score accordingly.
 * You do **not** draw a Benefactor upon assuming the Captain's rank...
-* ... unless you Sweep the Field (see rules above).  If so, you can draw *4* potential Benefactors at once and pick the one you want.  Use them on your behalf as if they were supporting you as a Mutineer yourself.  Keep them from game to game.
-* And if you Sweep the Field *as Keptin*, you can opt to use the same process to choose a new Benefactor to replace whatever one you may have.  _Plus_ you can choose between the one you already have and whatever you just drew.  Hey, it's _really_ good to be The Keptin!
-* When you win, you remain The Keptin and do *not* promote in rank.  As Keptin, your goal is to fend off ambitious Mutineers for as long as you can while living the good life.  But you get to keep your Benefactor from plot to plot, if you have one (see above).
+* ... unless you just Swept the Field (see rules above).  If so, you can draw *4* potential Benefactors for Visibility and pick the one you want.  Use that one on your behalf as if they were supporting you as a Mutineer yourself.  Keep the them as long as you keep winning games.  Think of them less as Benefactors and more as Loyal Minions.  Or someone who owes you big time.  Or someone trying to keep you where they can see you.
+* Of course, Sweeping the Field *as Keptin* means the Mutineer just beat you handily.
+* When you win, you *remain The Keptin and do not promote in rank*.  As Keptin, your goal is to fend off ambitious Mutineers for as long as you can while pursuing the fruits of power.
 * When you lose, you are executed and lose everything.  Just like you forced onto The Keptin when *they* lost.
 * Your Mutineer's Log is now the Keptin's Log.  Describe your underlings' pathetic schemes to overthrow you and how you easily crushed them.  Punish any of their allies if you feel like it will make an impression.  The crew must be kept in line.
+
 As you maintain your Keptin's log, disturbing conspiracies will certainly emerge.  Can you _really_ trust that Transporter Chief who came over to your side at the last minute?  Did your personal food taster really just "happen" to come down with the Altairian flu before lunch?  And the Navigator is looking awfully smug lately...
 
 Write it all down.  Keep track.  No detail is too small to crack a plot against you (_you!_) wide open.  Perhaps the former Keptin wasn't so paranoid after all...
