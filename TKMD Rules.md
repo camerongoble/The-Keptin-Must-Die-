@@ -138,7 +138,7 @@ Columns A, B, E, and G all have chains.  The single non-King cards in C and D do
 
 The Keptin's chains are A and B, because they start with a King (even though B only has one card, that card is a K, so it counts).
 
-Find the card with the lowest value in each of the Keptin's chains.  In column A this is 8 and in column B this is K.  The card values belong to the King of that suit, thus the 7 ♥ in A is considered to be 7 ♠ instead because the K is ♠.  A K by itself is always its own suit.
+Find the card with the lowest value in each of the Keptin's chains.  In column A this is 8 and in column B this is K.  The card values always belong to the King of that suit, thus the 7 ♥ in A is considered to be 7 ♠ instead because the K is ♠.  A K by itself is always its own suit.
 
 It is very important to keep this in mind:
 
@@ -163,11 +163,11 @@ This is the Keptin's hand.
 
 ### The Mutineer's Hand
 
-* The Mutineer's hand always contains the highest value cards from the tops of the chains.
+* The Mutineer's hand always contains the highest value cards from the tops of their chains.
 
 The Mutineer's chains are E, F, and G because they are multiple cards without any Kings.  Also belonging to the Mutineer are the contents of the foundation piles.  These are all considered when finding the tops of the chains.
 
-First, find the top of the chains in the field.  The top card of chain E's is 10♠; chain F's is 4♦, and chain G's is 6♥.  Track as before:
+First, find the top of the chains in the field.  The highest value card of chain E's is 10♠; chain F's is 4♦, and chain G's is 6♥.  Track by suit as before:
 
 |           | Clubs | Diamonds | Hearts | Spades |
 | --------- |:-----:|:--------:|:------:|:------:|
@@ -224,7 +224,7 @@ The 4♦ is less than the Benefactor's J♦, so replacing is allowed.
 |   Keptin: | 10    | 10       | 11     | 7      | (none)            |
 | Mutineer: | 1     | J        | 6      | 10     | (replaced the 4♦) |
 
-Convert any face cards to their value as indicated in the Benefactor chart above.  Basically, J and Q are worth 10, K is worth 11, Aces are worth 1.
+Convert any face cards to their value as indicated earlier: J and Q are worth 10, K is worth 11, Aces are worth 1.
 
 From our examples above, we get:
 
@@ -240,13 +240,14 @@ Now total them up.
 |   Keptin: | 10 + 10 + 11 + 7 = 38 |
 | Mutineer: |  1 + 10 + 6+ 10 = 27  |
 
-One more thing to consider: Luck.  Roll a 2d6 and add the result to the lowest total so far.  Usually this is the Mutineer.  But if the pre-roll totals are tied, apply the roll to The Keptin's total.
+One more thing to consider: Luck.  If you commit to this plan, you'll roll a 2d6 and add the result to the lowest total so far.  Usually this is the Mutineer.  But if the pre-roll totals are tied, apply the roll to The Keptin's total.
 
 Whoever has the highest total after the roll will win.  And if the result after the roll is a tie, The Keptin wins.
 
 * If you roll the dice, you are committed to the outcome.
+* If you don't roll, you can start over with a new plan.
 * When you roll, add the result to whoever's total is lowest.
-* Keep in mind: The Keptin always wins ties, pre- or post-roll.
+* The Keptin always wins ties, pre- or post-roll.
 * If you don't go through with it, you live to fight another day.  Re-shuffle the deck and start a new plot.
 
 So make the choice: take the risk, or go back to the drawing board?
@@ -306,12 +307,16 @@ Our Lieutenant is won again and is now Lt. Commander.  She can now have two pote
 
 Special rules apply to being The Keptin.  That's why you want to be The Keptin, of course!
 
-* Every conspiracy against you must be dealt with.  The opposing Mutineer does not choose whether to go against you or not; they commit no matter the risk.  Every Solitaire game represents a mutiny you must meet head on.  But you can assume that you know the details of each one as they come out.
+* Every conspiracy against you must be dealt with.
+
+The opposing Mutineer does not choose whether to go against you or not; they commit no matter the risk.  Every Solitaire game represents a mutiny you must meet head on.  But you can assume that you know the details of each one as they come out.
 * The Keptin's rules in the Solitaire game apply to you now instead of the Mutineer's.  (See rules above: The Keptin's Defense.)  Hey, it's good to be The Keptin!
 * When a mutiny begins, the opposing Ensign draws a Benefactor card as usual, and its value applies to their final score accordingly.
 * You do **not** draw a Benefactor upon assuming the Captain's rank...
-* ... unless you just Swept the Field (see rules above).  If so, you can draw *4* potential Benefactors for Visibility and pick the one you want.  Use that one on your behalf as if they were supporting you as a Mutineer yourself.  Keep the them as long as you keep winning games.  Think of them less as Benefactors and more as Loyal Minions.  Or someone who owes you big time.  Or someone trying to keep you where they can see you.
-* Of course, Sweeping the Field *as Keptin* means the Mutineer just beat you handily.
+* ... unless you just Swept the Field (see rules above).  If so, you can draw *4* potential Benefactors for Visibility and pick the one you want.
+
+Use that Benefactor on your behalf as if they were supporting you as a Mutineer yourself.  Keep the them as long as you keep winning games.  Think of them less as Benefactors and more as Loyal Minions.  Or someone who owes you big time.  Or someone trying to keep you where they can see you.
+* Of course, Sweeping the Field *as Keptin* means the Mutineer just beat you handily.  Oops.
 * When you win, you *remain The Keptin and do not promote in rank*.  As Keptin, your goal is to fend off ambitious Mutineers for as long as you can while pursuing the fruits of power.
 * When you lose, you are executed and lose everything.  Just like you forced onto The Keptin when *they* lost.
 * Your Mutineer's Log is now the Keptin's Log.  Describe your underlings' pathetic schemes to overthrow you and how you easily crushed them.  Punish any of their allies if you feel like it will make an impression.  The crew must be kept in line.
